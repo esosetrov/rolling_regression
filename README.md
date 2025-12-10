@@ -62,7 +62,6 @@ Key packages include:
 - `statsmodels` - Rolling regression implementation
 - `matplotlib` & `seaborn` - Visualization
 - `pandas-datareader` - Financial data acquisition
-- `scipy` - Statistical functions
 
 ## Data Sources
 
