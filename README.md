@@ -43,7 +43,7 @@ rolling_regression/
 1. Clone the repository:
 ```bash
 git clone https://github.com/esosetrov/rolling_regression
-cd rolling_regression_analysis
+cd rolling_regression
 ```
 
 2. Install required packages:
