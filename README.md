@@ -42,8 +42,8 @@ rolling_regression/
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rolling-regression-analysis.git
-cd rolling-regression-analysis
+git clone https://github.com/esosetrov/rolling_regression
+cd rolling_regression_analysis
 ```
 
 2. Install required packages:
