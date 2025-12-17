@@ -32,7 +32,6 @@ rolling_regression/
 ├── LICENSE                                                   # MIT License
 └── .gitignore                                                # Version control settings
 
-
 ## Installation & Setup
 
 ### Prerequisites
@@ -186,4 +185,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The statsmodels development team for the RollingOLS implementation
 - All contributors to the open-source data science ecosystem
 
-**Note**: This is an educational/research tool. Not financial advice. Always conduct your own due diligence before making investment decisions.
+**Note**: 
+This notebook is designed for educational and research purposes.
+Real-world applications may require additional considerations and validation.
+This notebook is not financial advice. Always conduct your own due diligence before making investment decisions.
