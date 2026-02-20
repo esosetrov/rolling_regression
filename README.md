@@ -1,4 +1,5 @@
 # rolling-regression
+This project provides a rigorous implementation of rolling regression techniques for analyzing time-varying risk exposures in financial markets, offering both theoretical insights and practical tools for dynamic portfolio management.
 This project implements rolling regression analysis using the Fama-French Three-Factor Model and industry portfolio returns to analyze time-varying relationships in financial data. The analysis is performed using Python, leveraging libraries such as pandas, statsmodels, matplotlib, and seaborn.
 
 # Rolling Regression Analysis with Fama-French Factors
